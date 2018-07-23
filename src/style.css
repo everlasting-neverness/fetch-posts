@@ -1,0 +1,17 @@
+body {
+  background-color: #eee;
+}
+
+.post {
+  background-color: #fff;
+  max-width: 500px;
+  margin: 25px auto;
+  padding: 20px;
+  border-radius: 5px;
+  font-family: cursive;
+}
+
+button {
+  color: darkred;
+  border-radius: 5px;
+}
